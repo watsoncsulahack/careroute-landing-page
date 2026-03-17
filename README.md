@@ -1,12 +1,14 @@
 # CareRoute Landing Page
 
+## Live URL
+- https://watsoncsulahack.github.io/careroute-landing-page/
+
+## Linked demos
+- Try Demo (web prototype): https://watsoncsulahack.github.io/careroute-prototype-web/
+- Live Monitor: https://watsoncsulahack.github.io/careroute-prototype-web/monitor.html
+- Ambulance Game: https://watsoncsulahack.github.io/careroute-ambulance-game/
+
 ## Local run
 ```bash
-cd landing
 python3 -m http.server 8103
 ```
-
-## Free hosting options
-1. **GitHub Pages** (recommended)
-2. Cloudflare Pages (free tier)
-3. Netlify (free tier)
